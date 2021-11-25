@@ -1,0 +1,6 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/markostamos/Desktop/devws/install/navbot/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}
